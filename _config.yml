@@ -1,6 +1,6 @@
 name: Roman's Chiro
 favicon: null
-layout_spectrum: 0.24639
+layout_spectrum: 0.50271
 typography_spectrum: 0.03144962200894952
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefdeb'
-    - '#070713'
-    - '#4f6072'
-    - '#a4c4b7'
-    - '#c16443'
+    - '#d4f3f6'
+    - '#4774b8'
+    - '#b0d4ee'
+    - '#85a1c9'
+    - '#3c5f95'
   brandStrength: 0.15005098562687635
   lightness: 0.22396305645816028
   saturation: 0.9183289620559663
